@@ -1,0 +1,14 @@
+Accuracy of the total model is 0.6702
+Precision of the total model is 0.5720
+Recall of the total model is 0.6132
+Balanced accuracy of the total model is 0.6132
+F1 score of the total model is 0.5919
+MCC of the total model is 0.4978
+AVG of the total model is 0.5676
+
+
+
+0.6702	0.5720	0.6132	0.5919	0.4978	0.5676
+
+67.02
+56.76

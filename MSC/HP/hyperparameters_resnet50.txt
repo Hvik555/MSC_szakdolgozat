@@ -1,0 +1,7 @@
+lr 1e-05
+batch_size 64
+units 384
+num_layers 2
+dropout False
+globlayer False
+freeze_layers_num 90
