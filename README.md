@@ -9,6 +9,3 @@ The folder structure is the following:
 
 If you can't download the datasets from the code, you can use the following links:
  
-
-If you want to use a newer version or have any problems with the code please visit my GitHub repository:
- - https://github.com/Hvik555/MSC_szakdolgozat
