@@ -2,7 +2,7 @@
 
 You can use the ipynb files:
  - locally with Jupyter Notebook (in this case you have to install python, CUDA and cuDNN)
- - Or use it from Google Colab
+ - Or use it from Google Colab: https://colab.research.google.com/
 
 If you decide to use it locally please install the requirements.txt with pip.
 
