@@ -1,3 +1,9 @@
+You can use the ipynb files:
+ - locally with Jupyter Notebook (in this case you have to install python, CUDA and cuDNN)
+ - Or use it from Google Colab: https://colab.research.google.com/
+
+If you decide to use it locally please install the requirements.txt with pip (pip install -r requirements.txt).
+
 The folder structure is the following:
  - CNNs.ipynb: This is the main source code for the CNNs, heatmaps, metrics, visualization, adversarial attacks etc. with clear outputs (code did not run before)
  - sample: Contains two ipynb file:
