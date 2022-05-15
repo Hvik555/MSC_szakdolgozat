@@ -1,7 +1,7 @@
 # MSC_szakdolgozat
 
 You can use the ipynb files:
- - locally with Jupyter Notebook (in this case you have to install python, CUDA and cuDNN)
+ - locally with Jupyter Notebook (in this case you have to install python, CUDA and cuDNN) - RECOMMENDED 
  - Or use it from Google Colab: https://colab.research.google.com/
 
 If you decide to use it locally please install the requirements.txt with pip (pip install -r requirements.txt).
