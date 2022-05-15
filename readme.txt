@@ -5,8 +5,9 @@ The folder structure is the following:
     * All_sample_code.ipynb: This code has all the outputs with dummy values (including training phase)
  - files: Contains all the heatmaps, hyperparameters, metrics, visualization, plots, etc files that were discussed in the Szakdolgozat.pdf 
 
-If you can't download the datasets from the code, you can use the following links:
- 
+If you can't download the datasets from the code, you can use the following links (I recommended to use via Chrome):
+ - https://drive.google.com/file/d/1gCMmE9Wjm7YXkwRNW5wS85tim4z_m-br/view?usp=sharing
+ - https://drive.google.com/file/d/1_V3xN3MoqjLSdbjFDalFRhQm5R29nAG7/view?usp=sharing
 
 If you want to use a newer version or have any problems with the code please visit my GitHub repository:
  - https://github.com/Hvik555/MSC_szakdolgozat
